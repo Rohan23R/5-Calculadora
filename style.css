@@ -1,0 +1,16 @@
+.calculadora{
+    display:block;
+    margin:0 auto;
+    padding:20px;
+    background-color:#dc4c46;
+    width: 300px;
+    height: 500px;
+    border-radius: 25px;
+}
+
+.calculadra td button{
+    display:block;
+    width:70px;
+    height:70px;
+    font-size: 25px;
+}
